@@ -2,3 +2,307 @@
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV 2" group-title="My Channels",TV 2
 http://maxotts.maxdigitaltv.com/x-media/C1/master.m3u8
+#EXTINF:-1 tvg-id="TV-C1" tvg-name="Channel 1" group-title="My Channels",Channel 1
+http://maxotts.maxdigitaltv.com/x-media/C1/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C109" tvg-name="Channel 109" group-title="My Channels",Channel 109
+http://maxotts.maxdigitaltv.com/x-media/C109/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C11" tvg-name="Channel 11" group-title="My Channels",Channel 11
+http://maxotts.maxdigitaltv.com/x-media/C11/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C119" tvg-name="Channel 119" group-title="My Channels",Channel 119
+http://maxotts.maxdigitaltv.com/x-media/C119/1/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C122" tvg-name="Channel 122" group-title="My Channels",Channel 122
+http://maxotts.maxdigitaltv.com/x-media/C122/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C125/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C126/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C129/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C133/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C144/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C145/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C146/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C15/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C16/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C181/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C183/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C19/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C198/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C2/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C20/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C240/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C241/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C243/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C244/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C245/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C246/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C248/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C252/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C253/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C254/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C255/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C256/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C258/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C259/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C261/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C263/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C267/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C268/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C273/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C276/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C277/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C3/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C301/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C31/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C32/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C34/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C37/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C4/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C40/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C41/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C46/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C49/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C490/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C5/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C52/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C512/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C513/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C514/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C6/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C669/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C680/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C707/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C75/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C76/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C77/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C78/master.m3u8
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C79/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C82/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C87/1/master.m3u8
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C88/1/master.m3u8
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C90/1/master.m3u8
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C91/1/master.m3u8
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+http://maxotts.maxdigitaltv.com/x-media/C97/master.m3u8
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+
+#EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
+
