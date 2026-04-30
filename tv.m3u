@@ -321,3 +321,7 @@ http://maxotts.maxdigitaltv.com/x-media/C97/master.m3u8
 
 #EXTINF:-1 tvg-id="TV-C125" tvg-name="Channel 125" group-title="My Channels",Channel 125
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="anime.verygood" tvg-name="Very Good" tvg-logo="https://your-logo-link.png" group-title="Series" tvg-type="series",Anime S01E04 - Very Good
+https://hstorage.xyz/files/K/kegareboshi/kegareboshi-4_1080p.mp4
